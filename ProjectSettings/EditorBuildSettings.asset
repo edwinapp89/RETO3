@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/MenuUI.unity
+    guid: 6fa6e30ea8fa348429eb8c19b588cd4a
+  - enabled: 1
+    path: Assets/Scenes/nivelFuego.unity
+    guid: 05224e8beba78624eb6271ef647bf3c7
+  - enabled: 1
+    path: Assets/Scenes/nivelSol.unity
+    guid: cf7bce07562df53409e23f23a5e151c8
+  - enabled: 1
+    path: Assets/Scenes/nivelTierra.unity
+    guid: 454f7fa0c02397647bfda52bc454eb0e
   m_configObjects: {}
